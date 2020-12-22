@@ -7,6 +7,14 @@ According to the American Heart Association (AHA), the formula for calculating y
 [Note: These formulas are estimates provided by the AHA. Maximum and target heart rates may vary based on the health, fitness and gender of the individual. Always consult a physician or qualified health care professional before beginning or modifying an exercise program.] 
 
 # Screenshot
-![app screenshot]()
+![app screenshot](https://github.com/fariduca/target-heart-rate-calculator/blob/main/img/screenshot.PNG)
 
-# Requirements
+# Requirements:
+- [JavaFX library](https://openjfx.io/)
+- Java SDK
+- InteliJ IDEA
+
+The JavaFX library should be downloaded and added to the project dependencies.
+
+# Author 
+Faridun M.
